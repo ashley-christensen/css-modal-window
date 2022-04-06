@@ -1,3 +1,3 @@
 # modal-window
 
-//practice with modal window functionality -- CSS
+//practice with modal window functionality -- JS
